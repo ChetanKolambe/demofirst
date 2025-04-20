@@ -1,2 +1,3 @@
 # demofirst
-author: Chetan Ramesh Kolambe
+Author: Chetan Ramesh Kolambe
+This is my GitHUb project.
